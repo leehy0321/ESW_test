@@ -13,4 +13,7 @@ void foo1()
 {
 	printf("This is a foo1()\n");
 }
-
+void foo2()
+{
+	printf("This is a foo2()\n");
+}
